@@ -32,8 +32,7 @@ export const dessertsData = [
     p3: "#cbaada",
     p4: "#fcdabc",
     p5: "#B1E1E7",
-    p6: "#f8bbd0",
-    p33: "#F4C2D7", // Tono pastel RETO
+    p6: "#F4C2D7", // Tono pastel RETO
   },
   {
     porcentaje: "Nivel Medio",
@@ -42,8 +41,7 @@ export const dessertsData = [
     p3: "#A569BD",
     p4: "#f8c89c",
     p5: "#64C3CE",
-    p6: "#f48fb1",
-    p33: "#D81B60", // Tono medio RETO
+    p6: "#D81B60", // Tono medio RETO
   },
   {
     porcentaje: "Nivel Alto",
@@ -52,8 +50,7 @@ export const dessertsData = [
     p3: "#7D3C98",
     p4: "#e69237",
     p5: "#35A0AC",
-    p6: "#e91e63",
-    p33: "#E0008A", // Tono oscuro/exacto RETO
+    p6: "#E0008A", // Tono oscuro/exacto RETO
   },
 ];
 
