@@ -33,7 +33,7 @@ export const dessertsData = [
     p4: "#fcdabc",
     p5: "#B1E1E7",
     p6: "#f8bbd0",
-    p8: "#ccffeb",
+    p7: "#B0C4DE"
   },
   {
     porcentaje: "Nivel Medio",
@@ -43,6 +43,7 @@ export const dessertsData = [
     p4: "#f8c89c",
     p5: "#64C3CE",
     p6: "#f48fb1",
+    p7: "#4682B4"
     p8: "#80fcc6",
   },
   {
@@ -53,6 +54,7 @@ export const dessertsData = [
     p4: "#e69237",
     p5: "#35A0AC",
     p6: "#e91e63",
+    p7: "#00008B"
     p8: "#00FA9A",
   },
 ];
@@ -119,8 +121,8 @@ export const candidatoData = [
   {
     partido: 7,
     nombre: "FERNANDO VILLAVICENCIO",
-    url: img("imagenes_presidentes/candidato_007.png"),
-    logo: img("logos_partidos_politicos/CONSTRUYE.png"),
+    url: img("imagenes_presidentes/2023/FERNANDO_VILLAVICENCIO_2023.png"),
+    logo: img("logos_partidos_politicos/2023/CONSTRUYE_2023.png"),
     color: "#00008B", // Azul oscuro
     nombrePartido: "CONSTRUYE",
     json: "CONSTRUYE",
